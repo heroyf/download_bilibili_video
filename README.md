@@ -30,7 +30,7 @@
 
 - ![](./Pic/video.png)
 
-##视频教程地址：[https://file.heroyf.club/download_bilibili_video.mp4](https://file.heroyf.club/download_bilibili_video.mp4)##
+**视频教程地址：[https://file.heroyf.club/download_bilibili_video.mp4](https://file.heroyf.club/download_bilibili_video.mp4)**
 
 ## :dolphin:最后
 **最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！
