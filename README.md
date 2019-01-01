@@ -20,9 +20,24 @@
 4. 新增了很多新鲜的bug ，我还没发现，期待你们的测试
 
 ## :dolphin:运行环境
-** python 3 **
+**python 3**
+
+## :dolphin:安装依赖库
+`pip3 install -r requirements.txt`
 
 ## :dolphin:运行截图
+- ![](./Pic/run.png)
+
+- ![](./Pic/video.png)
+
+##视频教程地址：[https://file.heroyf.club/download_bilibili_video.mp4](https://file.heroyf.club/download_bilibili_video.mp4)
+
+## :dolphin:最后
+**最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！
+如果可以的话请给原作者一个star，没有他的程序，我也没法改进呢~
+感谢大家！！！！笔芯哟~:two_hearts::two_hearts::two_hearts:**
+
+
 
 
 
